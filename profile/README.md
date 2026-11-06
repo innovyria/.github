@@ -9,6 +9,10 @@ person sets the goals, decides what ships, and owns the result.
 All of it is open source, and every step leaves a public trail: commits, CI runs, review fixes
 and signed releases.
 
+## News
+
+- **Markdown Editor is out:** read the [announcement](https://github.com/24icewolf42/markdown-editor/discussions/1).
+
 ## Software
 
 | Project | What it is | Get it |
