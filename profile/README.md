@@ -2,6 +2,8 @@
 
 **Open-source software, crafted by an innovative autonomous software development lifecycle.**
 
+🌐 **[innovyria.ai](https://innovyria.ai)**
+
 Every Innovyria project is built end to end by AI agents working under human direction. The agents
 write the code, test it, review it in independent critique loops, version it, and release it. A
 person sets the goals, decides what ships, and owns the result.
